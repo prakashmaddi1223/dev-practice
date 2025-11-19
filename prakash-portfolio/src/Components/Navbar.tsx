@@ -1,7 +1,7 @@
 export default function Navbar() {
   return (
     <nav className="sticky top-0 z-40 bg-white backdrop-blur">
-      <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
+      <div className="mx-auto flex max-w-5xl items-center gap-60 px-4 py-3">
         <div className="text-sm font-semibold tracking-wide bg-linear-to-r from-blue-800 via-loAccent to-purple-800 bg-clip-text text-transparent">
           Prakash Maddi
         </div>
