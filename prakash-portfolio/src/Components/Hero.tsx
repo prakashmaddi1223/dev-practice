@@ -34,19 +34,19 @@ export default function Hero() {
           </a>
         </div>
         <div className="mt-4 grid gap-4 sm:grid-cols-3">
-          <div className="flex flex-col rounded-xl bg-linear-to-r from-blue-900 via-blue-850 to-blue-800 p-4 hover:scale-105 hover:shadow-xl duration-300 ease-in-out custom-card active">
+          <div className="flex flex-col rounded-xl bg-linear-to-r from-[#263BC7] to-[#0e62eb] border-transparent p-4 hover:scale-105 hover:shadow-xl duration-300 ease-in-out custom-card active">
             <div className="text-white font-semibold">Experience</div>
             <div className="mt-1 text-sm font-mediumbold text-slate-100">
               3+ years in React / Next.js / Node.js / TypeScript / Express js / SQL / NoSQL / REST APIs / JWT / Agile / Git / GitHub / CI-CD / Tailwind CSS / Cerner Command Language(CCL)
             </div>
           </div>
-          <div className="flex flex-col rounded-xl bg-linear-to-r from-purple-900 via-purple-850 to-purple-800 p-4 hover:scale-105 hover:shadow-xl duration-300 ease-in-out custom-card active">
+          <div className="flex flex-col rounded-xl bg-linear-to-r from-[#483FC5] to-[#8e59f1] border-transparent p-4 hover:scale-105 hover:shadow-xl duration-300 ease-in-out custom-card active">
             <div className="text-white font-semibold">Current Focus</div>
             <div className="mt-1 text-sm font-mediumbold text-slate-100">
               Frontend & full stack roles (onsite, hybrid & remote)
             </div>
           </div>
-          <div className="flex flex-col rounded-xl bg-linear-to-r from-blue-900 via-blue-850 to-blue-800 p-4 hover:scale-105 hover:shadow-xl duration-300 ease-in-out custom-card active">
+          <div className="flex flex-col rounded-xl bg-linear-to-r from-[#263BC7] to-[#0e62eb] border-transparent p-4 hover:scale-105 hover:shadow-xl duration-300 ease-in-out custom-card active">
             <div className="text-white font-semibold">Stack</div>
             <div className="mt-1 text-sm font-mediumbold text-slate-100">
               React · Next.js · TypeScript · Node.js · SQL / NoSQL
